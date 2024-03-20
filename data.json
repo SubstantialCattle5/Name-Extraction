@@ -1,0 +1,2948 @@
+[
+    {
+        "doc_ans": "Jaya Chabukswar",
+        "user_ans": "MAEHRISH QAUDRI",
+        "ocr_text": "11:14\nI\n43%\nMr._Maehrish_Qa..\nAARAV PATHOLOGY\nLABORATORY\nFocussed on Quality:.. Always\nPatient Name\n: MR. MAEHRISH QAUDRI\nRegn. Date\n: 01-Sep-2023 11.05 AM\nAge/Sex\n: 31 Years /Male\nReport Date\n: 01-Sep-2023 11.11 AM\nLabcode\n: 44117\nRef By\n: Self\nHAEMATOLOGY.\nTest Name\nResult\nUnit\nReference Range\nHaemoglobin\n15.3\ngm/dl\n12.5-16.0\nR.B.C. Count\n5.75\nMill/Cmm\n4.2-6.5\nPacked Cell Volume(PCV)\n44.7\n%\n36-52\nMean Corpuscular Volume\n77.7\nfl\n76.0-96.0\nMean Corpuscular Haemoglobin\n26.6\npg\n27.5-33.2\nMean Corpuscular Hb conc\n34.2\ng/dl\n31.5-34.5\nRDW-CV\n12.8\n%\n11-16\nTotal WBC Count\n3800\n/cmm\n4000-11000\nDifferential Count\nNeutrophils\n58\n%\n40-70\nLymphocytes\n37\n%\n20-40\nMonocytes\n03\n%\n00-10\nEosinophils\n02\n%\n00-06\nBasophils\n00\n%\n0-1\nPlatelet Count\n179000\n/cmm\n150000-450000\nMPV\n6.1\nfl\n9.7-12.8\nTest Done on Fully Automated Hematology Analyser(3 Part diff)\nNote: Kindly correlate clinically.\nEnd of Report\nAFZAL_PATHAN\njet\nChecked By\nPage of 2\nAuthorised Signature\nDr. Jaya Chabukswar\nHome Visit Cell No. 9168688740\nM.B.B.S M.D (Path.)\nReg No.aroa\nAdd. Plot 15. C-Sector. N-13 CIDCO. Bharat Negar Near Aurangabad-431001 E-mail -ravpath@gmail.com\nAARAV PATHOLOGY\nLABORATORY\nFocussed, on Quality... Always\n2/3\nPatient Name\n: MR. MAEHRISH QAUDRI\nRegn. Date\n: 01-Sep-2.\nAge/Sex\n: 31 Years /Male\nReport Date\n: 01-Sep-2023 11.11 AM\nLabcode\n: 44117\nRef By\n: Self\n4\nVIDAL\nO\nTest\nResult\n",
+        "ner_output": [
+            {
+                "entity_group": "PER",
+                "score": 0.8907243013381958,
+                "word": "._Maehrish_Qa",
+                "start": 14,
+                "end": 27
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.993048369884491,
+                "word": "AARAV",
+                "start": 30,
+                "end": 35
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9974206686019897,
+                "word": " MAEHRISH QAUDRI",
+                "start": 106,
+                "end": 121
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8141372203826904,
+                "word": "AFZAL",
+                "start": 893,
+                "end": 898
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5344671607017517,
+                "word": "PATHAN\n",
+                "start": 899,
+                "end": 906
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9993775486946106,
+                "word": " Jaya Chabukswar",
+                "start": 956,
+                "end": 971
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.5697961449623108,
+                "word": "ID",
+                "start": 1065,
+                "end": 1067
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9884490966796875,
+                "word": " Bharat Negar",
+                "start": 1071,
+                "end": 1083
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9982712268829346,
+                "word": " Aurangabad",
+                "start": 1089,
+                "end": 1099
+            }
+        ]
+    },
+    {
+        "doc_ans": null,
+        "user_ans": null,
+        "ocr_text": "Test Description\nObserved Value\nBiological Reference Interval\nPlasma Glucose :\nPlasma glucose fasting, by Hexokinase method\n86\nFasting :\n< 100 mg/dL\n100 to 125 mg/dL : Impaired fasting\nglucose tolerance / Prediabetes\n>/= 126 mg/dL : Suggestive of\ndiabetes mellitus\n(On more than one occasion)\nAmerican Diabetes Association\nGuidelines 2022\n.\nRandom :\n< 200 mg/dL\nAmerican Diabetes Association\nGuidelines 2022\nClinical Chemistry\nUrea, serum by GLDH-urease\n20\n17 to 49 mg/dL\nBUN-Blood Urea Nitrogen,serum by calculation\n9.35\n8 to 23 mg/dL\nCreatinine, serum by Jaffe w/o deproteinization\n0.76\n0.6 to 1.2 mg/dL\n",
+        "ner_output": [
+            {
+                "entity_group": "MISC",
+                "score": 0.7032014727592468,
+                "word": " Hexokinase",
+                "start": 106,
+                "end": 116
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9659299850463867,
+                "word": "American Diabetes Association",
+                "start": 293,
+                "end": 322
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9719357490539551,
+                "word": "American Diabetes Association",
+                "start": 362,
+                "end": 391
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7195765376091003,
+                "word": " GLDH-",
+                "start": 442,
+                "end": 447
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5935773849487305,
+                "word": "BUN-Blood",
+                "start": 472,
+                "end": 481
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8742605447769165,
+                "word": " Jaffe",
+                "start": 557,
+                "end": 562
+            }
+        ]
+    },
+    {
+        "doc_ans": "Rajendra Prasad Sahu",
+        "user_ans": "REHOBOTH GETACHEW",
+        "ocr_text": "GRONATOR\nfor\nKalinga Institute of Medical Sciences (KIMS)\nKiiT\nand is or your\nPradyumna Bal Memorial Hospital (PBMH)\nOF\nCENTRAL LABORATORY, KIMS\nLab Report : Biochemistry\nMRN\nKIMS62309050006\nSpecimen\nSERUM\nVisit Type\nOP OP-001\nName\nMs REHOBOTH GETACHEW\nSample No\n2309050479\nABEGAZ\nAge / Sex\n23.1 Y / FEMALE\nCollected On\n05/09/2023 08:29\nMobile No\n9668297109\nReferring Doctor\nDr. Rajendra Prasad Sahu\nConsulting Doctor\nDr. Rajendra Prasad Sahu\nReceived On\n05/09/2023 10:00\nReported On\n05/09/2023 10:39\nDepartment\nGENERAL MEDICINE\nTest Name\nResult\nUnit\nBiological Reference Interval\nSERUM UREA\n22\nmg/dL\n12.0-42.0\n(Ur\u00e9ase,UV)\nSERUM CREATININE\n0.60\nmg/dL\nFEMALE: 0.5 - 1.1\nMALE: 0.7 - 1.3\n(Alkaline Picrate-Kinetic, IFCC-\nCHILDREN: 0.2 - 0.42\nIDMS Standardised)\nReport Status : Final\n-\nEnd of Report\nfavit\nPerformed By : Mr Biswajit Kar\nResult Certfied By : Dr. Kavita Aggarwal\nPerformed On : 05/09/2023 10:26\nM.D Biochem\nResult Certfied On : 05/09/2023 10:39\nINSTITUTE\nMEDICALS\nBHUBANESWAR\nCHILD\nMC-2776\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.9872302412986755,
+                "word": "Kalinga Institute of Medical Sciences",
+                "start": 13,
+                "end": 50
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9924252033233643,
+                "word": "KIMS",
+                "start": 52,
+                "end": 56
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.5862712860107422,
+                "word": "KiiT",
+                "start": 58,
+                "end": 62
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.6694101095199585,
+                "word": "\nand",
+                "start": 62,
+                "end": 66
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9777125120162964,
+                "word": "Pradyumna Bal Memorial Hospital",
+                "start": 78,
+                "end": 109
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.8423331379890442,
+                "word": "PBMH",
+                "start": 111,
+                "end": 115
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.4476223587989807,
+                "word": "CENTRAL",
+                "start": 120,
+                "end": 127
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.45111680030822754,
+                "word": " L",
+                "start": 128,
+                "end": 129
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9539625644683838,
+                "word": " KIMS",
+                "start": 140,
+                "end": 144
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6424722075462341,
+                "word": "IM",
+                "start": 176,
+                "end": 178
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9990931749343872,
+                "word": " REHOBOTH GETACHEW",
+                "start": 235,
+                "end": 252
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9994765520095825,
+                "word": " Rajendra Prasad Sahu",
+                "start": 379,
+                "end": 399
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9993770718574524,
+                "word": " Rajendra Prasad Sahu",
+                "start": 422,
+                "end": 442
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.574462354183197,
+                "word": " Picrate-",
+                "start": 695,
+                "end": 703
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9643142223358154,
+                "word": " Biswajit Kar\n",
+                "start": 820,
+                "end": 833
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.999234139919281,
+                "word": " Kavita Aggarwal",
+                "start": 858,
+                "end": 873
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9196085929870605,
+                "word": "INSTITUTE\nMEDICALS\nBHUBANESWAR",
+                "start": 956,
+                "end": 986
+            }
+        ]
+    },
+    {
+        "doc_ans": "K\nMBBS",
+        "user_ans": "YAMSUI",
+        "ocr_text": "K\nEPISKIN\nDr. SANGEETH KUMAR.K\nMBBS, MD DVL\nBEYOND SKIN HAIR CARE\nRegd No. 64748\nCONSULTANT DERMATOLOGIST\nSkin I Hair I Laser Clinic\nCOSMETOLOGIST & TRICHOLOGIST\nSPECIALITIES :\nNAME : YAMSUI\nAGE: SEX:\nDATE: 20/05/2023\n36yrs M\nSkin\nA\" Processform Eizumal\nProcesses\nHair\nP\nNails\n1\nEWYCA MAX lotion\nbe YA\nChemical Peeling\nFUY\nM\nE\nN\nHANDS\nMicrodermabrasion\nagent Pg to\nAcne Scar Treatment\n2\ncap.\nMAC 4h\nDonth\nDermaroller\n400ww\nslapl one daily\n30\nparter bad\nAlternoon\nRadiofrequency & Cautery\nMesotherapy for Hair Loss\n3 SORVATE-C ointment\nbr You\nHair Removal Laser\nAlluted\nM\nN\nPRP for Hair\nwas\n3wwks\nSTOP\nSkin Tightening\nPRP for Face Lifting\n&\nConsultation valid for 7 days or 2 visit's ( Whichever is earlier)\nAddress : Jai Bhavani Towers, # 23-78/129-12, Plot No : 52, Anandbagh,\nR.K. Nagar, Malkajgiri, Hyderabad-500 047.\nFor Regular Call:\n98663 25005 / 86393 94587\nTimings : 12.00PM to 5.00PM ( MON - SAT ) / Every Sunday Holiday\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.5162979960441589,
+                "word": " K\nEP",
+                "start": 0,
+                "end": 4
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.40304648876190186,
+                "word": "K",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9979462027549744,
+                "word": " SANGEETH KUMAR",
+                "start": 14,
+                "end": 28
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9970709681510925,
+                "word": "K\nMBBS",
+                "start": 29,
+                "end": 35
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6337941884994507,
+                "word": "L",
+                "start": 42,
+                "end": 43
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9739670157432556,
+                "word": "Skin I Hair I Laser Clinic",
+                "start": 106,
+                "end": 132
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9876543879508972,
+                "word": " YAMSUI",
+                "start": 184,
+                "end": 190
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.49960142374038696,
+                "word": " Eizumal",
+                "start": 246,
+                "end": 253
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6636988520622253,
+                "word": "Donth\nDermaroller",
+                "start": 399,
+                "end": 416
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9424636363983154,
+                "word": " Jai Bhavani Towers",
+                "start": 717,
+                "end": 735
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.986992597579956,
+                "word": " Anandbagh",
+                "start": 767,
+                "end": 776
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.5072914361953735,
+                "word": "\nR",
+                "start": 777,
+                "end": 779
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.7916370630264282,
+                "word": "K. Nagar",
+                "start": 780,
+                "end": 788
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9963570833206177,
+                "word": " Malkajgiri",
+                "start": 790,
+                "end": 800
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.996926486492157,
+                "word": " Hyderabad",
+                "start": 802,
+                "end": 811
+            }
+        ]
+    },
+    {
+        "doc_ans": null,
+        "user_ans": null,
+        "ocr_text": "14:52 I 1.2KB/s\nin\nWiFi\n14\n50%\nDOC-20230905-WA0008.\nQ\nA+\n57\n55\nWHITH\nREE\n2/3\nare\n",
+        "ner_output": []
+    },
+    {
+        "doc_ans": "Gayatri M. Mehta",
+        "user_ans": null,
+        "ocr_text": "14:53 1.3KB/s\nVo\nin\nWiFi\n50%\nDOC-20230905-WA0009.\n-\n- -\nReferred by\nHEALTH INDIA\nOrder Dt/time\n01/06/2023 10:56\nCollection Time\n10:56\nBIOCHEMISTRY\nSample type Serum\nTest Name\nResult\nUnits\nBiological Reference Interval\nRandom Blood Glucose :\n102.9\nmg/dl\n70 to 140\nCreatinine, (Serum by Enzymatic reaction )\n0.69\nmg/dl\n0.5-1.2\nS.G.P.T(ALT)\n37.6\nU/L\n0-40\n(Serum by IFCC method\nS.G.O.T(AST) :\n33.7\nU/L\n0-37\n(Serum by IFCC method\nALK.PHOSPHATASE :\n69.0\nU/L\n40-129\n(Serum by PNP method)\nG.G.T :\n15.4\nU/L\n8-78\nBILIRUBIN\nTotal :\n0.48\nmg/dl\nUp to 1.2\nDirect :\n0.34\nmg/dl\n0-0.7\nIndirect :\n0.14\nmg/dl\n0-0.5\nSERUM PROTEINS\nTotal Protein (Serum by Hiures method)\n6.72\ngms/dl\n6.4 8.5\nAlbumin (Seram by BCG method\n4.21\ngms/dl\n3.97-4.94\nGlobulins :\n2.51\ngms/dl\n2.3 3.5\nA/G Ratio :\n1.677\n0.9 - 2 2.9\nDr. Gayatri M. Mehta\nM. D. (Patho)\nNo G-32215\nDR GAYATRI MEHTA\nDR.ANAND D PARIKH\nMD(PATHOLOGY)\nMD(PATHOLOGY)\nLAB USE ONLY (Entered by GM Enter Date/Time 01/06/2023 4:21:00 Date/Time:01/06/2023 4:23:00 PM\nU4F\nVidhi Imaging Center I Pathology Department\nSwatantra Senant Nagar, Opp. Akhbarnagar Petrol Pump. Nr. Akhbamagar Circle Nava-Vadaj Ahmedabad 380 013\n(Patholity 8849893954 M 98799 29406 98250 09406 E-mail : vidhidiagnostics@gmail. Web www.vidhidiagnostics.com\nTime (Pathology) Mon to Sat 8.30 am to 3.00 pm. Sunday 9 am to 12 Noon\nCT SCAN & CBCT FACILITY NOW AVAILABLE\nVIDHI\nPathology Department\nDIAGNOSTICS\nPatient's name\n: JIGAR PARMAR\nReg. ID\n: P-1145-23\nAge/Sex\n29 Years/Male\nAccession\n: 6585\nReferred by\n: HEALTH INDIA\nOrder Dt/time\n:\n01/06/2023 10:56\nCollection Time 10:56\nHIV Test\nSample Type: Serum\nTest Name\nResult\nMethod :\nHIV TEST FOR ELISA\nResult :\nNon Reactive\nHbsAg\nSample Type: Serum\nTest Name\nResult\nBiological Reference Interval\nHbsAg (CARD) :\nNon Reactive\nNon Reactive\nURINE COTININE TEST\nSample Type:\nTest Name\nResult\nBiological Reference Interval\nUrine test for cotinine\nNegative\nNegative\nMethod One Step Qualitative Immune-Chromatographic assay.\nManufactured By Nano-Ditech Corporation\nSuggested Clinical correlation\nDr. Gayatri M. Mehia\nGovern\nM.D. (Patho)\nNo. G-32215\n2/3\nDR GAYATRI MEHTA\nDRANAND D.PARIKH\nMD(PATHOLOGY)\nMD(PATHOLOGY)\nONLY\n(Entered\nby\nGM\nEnter\nDate\n01/06/2023\n4:20:00\n9001\nVidhi Imaging Center 1 Pathology Department\nSwatantra Senant Nagar, Opp Akhbarnagar Petrol Pump Nr. Akhbamagan Circle Nava-Vadai Ahmedabad 380 013\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.981671929359436,
+                "word": "\nHEALTH INDIA",
+                "start": 67,
+                "end": 80
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9988422989845276,
+                "word": " Gayatri M. Mehta",
+                "start": 787,
+                "end": 803
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9734961986541748,
+                "word": "M",
+                "start": 804,
+                "end": 805
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9755370616912842,
+                "word": " D",
+                "start": 807,
+                "end": 808
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9983633160591125,
+                "word": " GAYATRI MEHTA",
+                "start": 832,
+                "end": 845
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9993729591369629,
+                "word": "ANAND D PARIKH",
+                "start": 849,
+                "end": 863
+            }
+        ]
+    },
+    {
+        "doc_ans": "JOE GEORGE",
+        "user_ans": "SUDHA RATHNAM",
+        "ocr_text": "D\nEndodiab\nClinici\nCENTRE FOR ENDOCRINOLOGY\n& DIABETES\nMBBS,MD Dr. JOE GEORGE\nPRESCRIPTION\nReg.No.27493 (TCMC)\n(Glasg).MN & Diabetos\nMRNO: 121112\nDate: 05-Sep-2023 3:10 PM\nName: SUDHA RATHNAM.V.K\nAge/Gender: 54Y, Female\nDiagnosis: Primary Hypothyroid (AITD), DLP, HT, Gastritis\nSI. Medicine\nDos\nFreq\nDuration\nQty\nRoute\nTHYRONORM 75MCG 100S TABLET\n1 (Thyroxine Sodium 75 MCG)\n1\n1-0-0\n180\n180\nOral\nNotes: morning empty stomach\nCONCOR-COR 2.5MG TABLET\n2 (Bisoprolol 2.5 MG)\n1\n0-0-1\n180\n180\nOral\nNotes: after food\nLIPIGO 5MG TABLET\n3 (Rosuvastatin 5 MG)\n1\n0-0-1\n180\n180\nOral\nNotes: after food\nRABEKIND DSR TABLET\n4 (Rabeprazole 20 MG+Domperidone 30 MG)\n1\nSOS\n10\n10\nOral\nNotes:\nCANDIDERMA PLUS 5GM CREAM\n5\n(Beclometasone 0.025 %W/W+Clotrimazole 1 %\nW/W+Neomycin 0.5 %W/W)\n1\n2 times\n10\n1\nSC\nNotes:\nPrescribed By: DR. JOE GEORGE (VA)\nadvise:Review after 6 months with 1) TSH 2) Na/K 3) Creatinine\nser: joe george (va) Time: 03:11:24 PM\nDR. JOE GEORGE (VA) MD, DNB, DM, FRCP(Glass), MNAM\nReg No: 27493\nEndocrinology\nsoftware generated prescription and no signature required.\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.966103196144104,
+                "word": " D\nEndodiab\nClinici\nCENTRE FOR ENDOCRINOLOGY\n& DIABETES\nMBBS",
+                "start": 0,
+                "end": 59
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9985226988792419,
+                "word": " JOE GEORGE",
+                "start": 67,
+                "end": 77
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9899100661277771,
+                "word": "TCMC",
+                "start": 105,
+                "end": 109
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9832550883293152,
+                "word": "Glasg",
+                "start": 112,
+                "end": 117
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7018835544586182,
+                "word": "abet",
+                "start": 126,
+                "end": 130
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9950188994407654,
+                "word": " SUDHA RATHNAM",
+                "start": 178,
+                "end": 191
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9852664470672607,
+                "word": "V",
+                "start": 192,
+                "end": 193
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9864135980606079,
+                "word": "K",
+                "start": 194,
+                "end": 195
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.9071982502937317,
+                "word": "\nCONCOR-COR",
+                "start": 424,
+                "end": 435
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8483823537826538,
+                "word": "\nLIPIGO",
+                "start": 509,
+                "end": 516
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7682453393936157,
+                "word": "\nRABEKIND DSR",
+                "start": 588,
+                "end": 601
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8036559224128723,
+                "word": "\nCANDIDERMA PLUS",
+                "start": 672,
+                "end": 688
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9981057643890381,
+                "word": " JOE GEORGE",
+                "start": 811,
+                "end": 821
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9862207174301147,
+                "word": "VA",
+                "start": 823,
+                "end": 825
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9981165528297424,
+                "word": " joe george",
+                "start": 895,
+                "end": 905
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.8428774476051331,
+                "word": "va",
+                "start": 907,
+                "end": 909
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9986266493797302,
+                "word": " JOE GEORGE",
+                "start": 933,
+                "end": 943
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9919398427009583,
+                "word": "VA",
+                "start": 945,
+                "end": 947
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9044402837753296,
+                "word": " DNB",
+                "start": 953,
+                "end": 956
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6472547650337219,
+                "word": "RCP",
+                "start": 963,
+                "end": 966
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9689104557037354,
+                "word": "Glass",
+                "start": 967,
+                "end": 972
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9030952453613281,
+                "word": " MNAM",
+                "start": 975,
+                "end": 979
+            }
+        ]
+    },
+    {
+        "doc_ans": "Akhil Mukim",
+        "user_ans": "Aruna Saraf",
+        "ocr_text": "Dr. Keyur Shah's\nRadiology Clinic\nPATIENT NAME\n: Aruna Saraf\n55 yrs./ Female\nREFERRED BY\n: Dr. Akhil Mukim ( MD )\nDATE\n: 26/06/2023\nULTRASONOGRAPHY OF NECK\nTHYROID\n-\nBoth lobes of Thyroid appear normal in size and echopattern.\n- Mixed echogenic nodule of 15 X 9mm, seen in right lobe, with thin complete halo. . No\ncalcification.\n-\nSize of Right Lobe :-- 33 X 16 X 12 mm\n-\nSize of Left Lobe : -- 33 x 12 x 11 mm.\n-\nSize of isthmus : --\n1.2 mm\nMajor Vessels of neck appear normal.\nFew subcentimeter REACTIVE nodes are seen at bilateral level - II . No necrosis.\nBoth Parotid and Submandibular glands appear normal in size and echopattern.\nNo evidence of localized collection or soft tissue edema is seen.\nIMPRESSION :\nRight lobe thyroid nodule, as mentioned above --- most likely Benign nodule. Adv : FNAC , if\nclinically indicated.\nFew subcentimeter REACTIVE nodes are seen at bilateral level - II . No necrosis.\nSONOGRAPHY COLOUR DOPPLER\nlay\nDR KEYU SHAH\nUSG / CT GUIDED\nTime: 9am to 2pm & 5pm to 8pm\nINTERVENTIONS\n3D/4D AGNOSIS) Carotidi\n(Emergency facilities Available)\nAhdemen\nRenal\nBiopsy/Fnac\nThyroid / Neck\nFetal\nTapping(Pleural/Ascitic)\nBrain\nScrotum\nPigtail Catheterisation\n401, 402, 403, Kairos Complex.\nBreast\nLimb\nPTBD/PTC, etc.\nOpp. Mahatma Gandhi Labour Institute,\nScrotum\n(Arterial / Venous)\nDIGITAL X-RAY &\nManav Mandir - Gurukul Road, Ahmedabad.\nMusculoskeletel\nrelated procedures\nClinic mob.: 9824564466 mob: 9824139466\nTVS.TRUS\n2D ECHO\nPh.079-48004466\ne.: drkeyurrshah@yahoo.co.in\n",
+        "ner_output": [
+            {
+                "entity_group": "PER",
+                "score": 0.9977867007255554,
+                "word": " Keyur Shah",
+                "start": 4,
+                "end": 14
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8942151069641113,
+                "word": "'s\nRadiology Clinic",
+                "start": 14,
+                "end": 33
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9989255666732788,
+                "word": " Aruna Saraf",
+                "start": 49,
+                "end": 60
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9995545148849487,
+                "word": " Akhil Mukim",
+                "start": 95,
+                "end": 106
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.5087115168571472,
+                "word": " FNAC",
+                "start": 800,
+                "end": 804
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9966070652008057,
+                "word": " KEYU SHAH",
+                "start": 946,
+                "end": 955
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5009436011314392,
+                "word": " CT",
+                "start": 962,
+                "end": 964
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9743189215660095,
+                "word": " Kairos Complex",
+                "start": 1198,
+                "end": 1212
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.626509428024292,
+                "word": "PT",
+                "start": 1226,
+                "end": 1228
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9839990139007568,
+                "word": " Mahatma Gandhi Labour Institute",
+                "start": 1246,
+                "end": 1277
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9542765617370605,
+                "word": "Manav Mandir",
+                "start": 1323,
+                "end": 1335
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9907090067863464,
+                "word": " Gurukul Road",
+                "start": 1338,
+                "end": 1350
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.997438907623291,
+                "word": " Ahmedabad",
+                "start": 1352,
+                "end": 1361
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7771725654602051,
+                "word": "\nTVS",
+                "start": 1437,
+                "end": 1441
+            }
+        ]
+    },
+    {
+        "doc_ans": "Self",
+        "user_ans": "AVI GUPTA",
+        "ocr_text": "9:14\n27\nSafari\nCAP\nACCREDITED\n:\n12 of 15\nuberg Supratech Reference Laboratories Private Limited\n\"KEDAR\" Opposite Krupa Petrol Pump, Near Parimal Garden, Ahmedabad 380006 I Phone 079-40408181 / 61618181\nEmail : contact@supratechlabs.com Website : www.supratechlabs.com I CIN U85195GJ2013PTC077365,2013-14\nNeuberg\nSupratech\nREFERENCE LABORATORIE\nMC-2391\nLABORATORY REPORT\nName\n: Mr. AVI GUPTA\nSex/Age Male / 23 Years\nCase ID 20900126673\nRef. By Dr. Self\nDis. At\n:\nPt. ID\n2303876\nBill. Loc. :\nPt. Loc\n:\nReg Date and Time\n:\n18-Sep-2022 11:56\nSample Type\n: Serum\nMobile No. : 9824077138\nSample Date and Time : 18-Sep-2022 11:48\nSample Coll. By NSRL\nRef Id1\n:\nReport Date and Time : 18-Sep-2022 14:58\nAcc. Remarks\nRef Id2\n:\nTEST\nRESULTS\nUNIT\nBIOLOGICAL REF RANGE\nREMARKS\nBIOCHEMICAL INVESTIGATIONS\nVitamin B 12 Level\nL 205.00\npg/mL\n211 911\nCMIA\nIntroduction\nVitamin B12, a member of the corrin family. S a cofactor for the formation of myelin, and along with folate is required for DNA synthesis Levels above 300\nor 400 are rarely associated with B12 deficiency induced hematological or neurological disease\nClinical Significance\nCauses of Vitamin B12 deficiency can be divided into three classes: Nutritional malabsorption syndromes and gastrointestinal causes B12 deficiency can\ncause Megaloblastic anemia (MA). nerve damage and degeneration of the spinal cord. Lack of B12 even mild deficiencies damages the myelin sheath The\nnerve damage caused by a lack of B12 may become permanently debilitating\nThe relationship between B12 and MA is not always clear that some patients with MA will have normal B12 levels; conversely. many individuals with B12\ndeficiency are not afflicted with MA\nDecreased in:\nIron deficiency. normal near-term pregnancy. vegetarianism, partial gastrectomy/ileal damage. celiac disease use of oral contraception parasitic\ncompetition pancreatic deficiency. treated epilepsy and advancing age\nIncreased in:\nRenal failure. liver disease and myeloproliferative diseases\nVariations due to age Increases with age.\nTemporarily Increased after Drug.\nFalsely high in Deteriorated sample.\nNote:(LL-VeryLow,L-Low.H-High,HH-VeryHigh ,A-Abnormal)\nSally\nPage 12 of 15\nPrinted On 18-Sep-2022 16:48\nDr Sandip Shah\nDr. Sandip Shah\nM.D. (Path & Bact.)\nM.D. (Path. & Bact.)\nConsultant Pathologist\nConsultant Pathologist\nCAP\nACCREDITED\nNeuberg Supratech Reference Laboratories Private Limited\n\"KEDAR\" Opposite Krupa Petrol Pump, Near Parimal Garden, Ahmedabad 380006 I Phone : 079-40408181 / 61618181\nEmail : contact@supratechlabs.com I Website www.supratechlobs.com I CIN U85195GJ2013PTC077365,2013-14\nNeuberg\nSupratech\nREFERENCE LABORATORIES\nMC-2391\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.5510790944099426,
+                "word": "Safari",
+                "start": 8,
+                "end": 14
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9947931170463562,
+                "word": "\nuberg Supratech Reference Laboratories Private Limited",
+                "start": 40,
+                "end": 95
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.881861686706543,
+                "word": "KEDAR",
+                "start": 97,
+                "end": 102
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9295076727867126,
+                "word": " Krupa",
+                "start": 113,
+                "end": 118
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9961288571357727,
+                "word": " Parimal Garden",
+                "start": 137,
+                "end": 151
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9979506731033325,
+                "word": " Ahmedabad",
+                "start": 153,
+                "end": 162
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7151530385017395,
+                "word": "sup",
+                "start": 218,
+                "end": 221
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6635025143623352,
+                "word": "chlabs",
+                "start": 225,
+                "end": 231
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7573556900024414,
+                "word": "sup",
+                "start": 250,
+                "end": 253
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6738123893737793,
+                "word": "chlabs",
+                "start": 257,
+                "end": 263
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9197039604187012,
+                "word": "Neuberg",
+                "start": 304,
+                "end": 311
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8801035284996033,
+                "word": "Supratech",
+                "start": 312,
+                "end": 321
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9974409937858582,
+                "word": " AVI GUPTA",
+                "start": 381,
+                "end": 390
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.7377274036407471,
+                "word": " Self",
+                "start": 447,
+                "end": 451
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9752727746963501,
+                "word": " NSRL",
+                "start": 639,
+                "end": 643
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8184098601341248,
+                "word": "MA",
+                "start": 1303,
+                "end": 1305
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8118050694465637,
+                "word": " MA",
+                "start": 1529,
+                "end": 1531
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7908343076705933,
+                "word": " MA",
+                "start": 1576,
+                "end": 1578
+            }
+        ]
+    },
+    {
+        "doc_ans": "M",
+        "user_ans": "Gudiya Devi",
+        "ocr_text": "SAHAWAR ULTRASOUND\nDr.\nM.B.B.S., D.M.R.D.,M.I.R.I.A.\n& DIAGNOSTIC CENTRE\nConsultant Radiologist\n4D\nEx. Senior Resident AMU (Aligarh)\nULTRASOUND\nEx. Resident AIIMS New Delhi\nNAME:Mrs. Gudiya Devi W/O Majendra Singh\nDATE\n29/08/2023\nConsultant Incharge:Dr. Usha Kanti\nAGE/SEX\n40 Y/F\nLiver: Shows normal (size~14.92cm), shape and echotexture. Biliary channels are normal.\nGall Bladder: Shows normal lumen. Wall thickness is normal. No pericholecystic fluid is\nPortal vein shows normal morphology. No focal mass lesion seen\nseen No calculi or mass lesion is present.\nCommon Bile Duct: Shows normal internal diameter. No calculus or mass seen.\nSpleen: Shows normal (size-10.13cm), shape and echotexture.\nPancreas: Shows normal size, shape and echotexture.\nKidneys: Both kidneys are normal in size, shape and echotexture. Cortico-medullary\ndifferentiation is maintained. Pelvicalyceal system is normal. No calculus or mass lesion is\nseen.\nBladder: Shows normal lumen. Wall thickness is within normal limits No calculi or focal\nmass lesion is seen.\nUterus: Shows normal size, shape and echotexture. No focal or diffuse mass lesion seen.\nThere is mildly prominent endometrium.\nEndometrial thickness: ~7.4mm\nOvaries: Shows a well defined anechoic cystic lesion (size~46.8x35.6mm) casting posterior\nenhancement in Lt. Adnexa. No evidnece of any septa, calcification or soft tissue\ncomponent.\nRt. ovary is normal in size, shape and echotexture.\nNo significant retroperitoneal lymphadenopathy or intraperitoneal fluid collection is seen.\nBowel loops are showing normal peristaltic movements.\nIMPRESSION: Findings are suggestive of\nEndometrial lining appears mildly prominent.\nSimple cyst in Lt. Adnexa.\nNo other Significant diagnostic Abnormality.\n#\nAdv-follow up USG after 4 weeks\nDr. S.S A.HASHMI\nConsultant Radiologist\nMBBS, DMRD (AMU)\nHill B ets, 248192 ()\nIT 8279351847, 7017697873\nis ultrasound examination report is simply a professional opinion and not the\nasked\nto\nreport\nimmediately\n",
+        "ner_output": [
+            {
+                "entity_group": "LOC",
+                "score": 0.9945311546325684,
+                "word": " SAHAWAR",
+                "start": 0,
+                "end": 7
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9596068859100342,
+                "word": "\nM",
+                "start": 22,
+                "end": 24
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9333866238594055,
+                "word": "B.B.S",
+                "start": 25,
+                "end": 30
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.7849249243736267,
+                "word": " D",
+                "start": 33,
+                "end": 34
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.6156610250473022,
+                "word": "M",
+                "start": 35,
+                "end": 36
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.7096710801124573,
+                "word": "R.D",
+                "start": 37,
+                "end": 40
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7387516498565674,
+                "word": "M.I.R.I.A.\n& D",
+                "start": 42,
+                "end": 56
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6068745851516724,
+                "word": " CENT",
+                "start": 66,
+                "end": 70
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.6393948197364807,
+                "word": "D",
+                "start": 97,
+                "end": 98
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9880279302597046,
+                "word": " AMU",
+                "start": 119,
+                "end": 122
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9940309524536133,
+                "word": "Aligarh",
+                "start": 124,
+                "end": 131
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9721083641052246,
+                "word": " AIIMS",
+                "start": 157,
+                "end": 162
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9628023505210876,
+                "word": " New Delhi",
+                "start": 163,
+                "end": 172
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9980146288871765,
+                "word": " Gudiya Devi",
+                "start": 183,
+                "end": 194
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9964771270751953,
+                "word": " Majendra Singh",
+                "start": 199,
+                "end": 213
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9977661371231079,
+                "word": " Usha Kanti",
+                "start": 254,
+                "end": 264
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9668095111846924,
+                "word": " Adnexa",
+                "start": 1307,
+                "end": 1313
+            }
+        ]
+    },
+    {
+        "doc_ans": "Ganesh Bhagwat",
+        "user_ans": "Siddhesh Hindalekar",
+        "ocr_text": "JUTKARSH\n1.5 Tesla MRI, 16 Slice CT Scan,\nSonography, X-Ray, Mammography,\n2D-echo, Pathology, ECG,\nSCANCENTRE\nEEG, EMG, NCV\nPATIENT'S NAME\n:\nMr. Siddhesh Hindalekar\nAGE: 27 Yrs / M\nREFERRED BY\n:\nDr. Ganesh Bhagwat\nDATE: 06.09.2023\nEXAMINATION\n:\nMRI Lumbo-sacral spine\nMRI of Lumbo-sacral spine is done using T1,T2 and STIR sequences.\nStraightening of lumbar spine is seen.\nThe lumbar vertebrae show normal alignment. Vertebral bodies reveal normal\ncontour, height and marrow signal intensity.\nPosterior diffuse disc bulge with left posterolateral protrusion and annular tear of L4-\nL5 intervertebral disc is seen indenting the anterior thecal sac and causing left lateral\nrecess narrowing. It is just abutting the left L4 and L5 nerve roots.\nRest of the lumbar intervertebral discs reveals no significant disc bulge.\nEarly changes of lumbar facetal arthropathy is seen. Ligamentum flavi is normal.\nThe visualized lower end of the cord and conus are normal in position and signal\nintensity. The paraspinal soft tissue appears normal.\nThe lumbar canal dimensions at midvertebral level in midsagittal sections are:\nL1: 17 mm,\nL2: 15 mm,\nL3: 14 mm, L4: 15 mm,\nL5: 16 mm\nThe lumbar canal dimensions at disc level in midsagittal sections are:\nL1-2: 11 mm, L2-3: 10 mm, L3-4: 10 mm, L4-5: 10 mm, L5-S1: 11 mm\nVisualised bilateral sacro-iliac joint and both femoral head grossly appears\nnormal.\nREMARKS:\nPosterior diffuse disc bulge with left posterolateral protrusion\nand annular tear ofL4-L5 intervertebral disc indenting the\nanterior thecal sac and causing left lateral recess narrowing. It\nis just abutting the left L4 and L5 nerve roots.\nEarly changes of lumbar facetal arthropathy.\nThanks for the Referral,\nWith Regards,\nDR. UTKARSH BHINGARE\nMD. RADIODIAGNOSIS\nThe\nsean\ndone\nhk\nSimran Elegance, Next to Thakur Hall, Tandon Road, Dombivli (E)\nMob. : 7045685656 / 57. Ph. : 0251-2862864/\n",
+        "ner_output": [
+            {
+                "entity_group": "MISC",
+                "score": 0.6005343198776245,
+                "word": "SH\n1.",
+                "start": 6,
+                "end": 11
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7705618143081665,
+                "word": " Tesla MRI",
+                "start": 13,
+                "end": 22
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5832371115684509,
+                "word": " CT Scan",
+                "start": 33,
+                "end": 40
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5570290088653564,
+                "word": "Ray",
+                "start": 56,
+                "end": 59
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5430359840393066,
+                "word": "\n2D",
+                "start": 73,
+                "end": 76
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6403806209564209,
+                "word": " ECG",
+                "start": 94,
+                "end": 97
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.565198540687561,
+                "word": " EMG",
+                "start": 115,
+                "end": 118
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9994803667068481,
+                "word": " Siddhesh Hindalekar",
+                "start": 145,
+                "end": 164
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9989450573921204,
+                "word": " Ganesh Bhagwat",
+                "start": 199,
+                "end": 213
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7059990167617798,
+                "word": "\nMRI Lumbo-",
+                "start": 244,
+                "end": 255
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6045668721199036,
+                "word": "\nMRI",
+                "start": 267,
+                "end": 271
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6452881097793579,
+                "word": " Lumbo",
+                "start": 275,
+                "end": 280
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.534288763999939,
+                "word": " T",
+                "start": 308,
+                "end": 309
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5486706495285034,
+                "word": "T",
+                "start": 311,
+                "end": 312
+            }
+        ]
+    },
+    {
+        "doc_ans": null,
+        "user_ans": null,
+        "ocr_text": "1/4/23\nT. Telma AM(uo/s)\n1\n)-x-x\nF/PP= 123/246\nFundus- NAS\n- T. Asidopam sos\nA1C -68%\n- T. Matieda forte\nx-\n1\n-\nx\nTy/Te = 200/177\nHOLICOL= 45/90\n6m\n- 7. catzor ineteal X-\n7\n-\nx\nTIMELY\nx\n500y\nBin = 315 plane.\n- cap. 0 rise D3\nvits - 2. ng me\n60000 iv/month\nAdv:-\n-\n7. partocid OCR\n1\n- x - x\nT. Matilda four 4 tab\n1\nx.\n- F/U of tea\n6m\ni\nc/pp\nAIC\ncalcerol inchet 6006010 /monthly\nRest continue some treatment\n-\nF/U after\n2m\nc F/PP IHGAIC\nvaiblan\nVailbow\n23\nis 11 N/43\nsdus-\n1600 kcal o/o.\nis\n-\ndaily exercise autoletated\n- T. tomells .met (50/1000) 1- *-\n,\n- T glades amg - 0.5mg\n- T. Dataye 107 1 - x - x\n- 7. vel tam - F (ouls) x . x -\n1\n- c. Etoshisin AV\nx- x -\n1\n",
+        "ner_output": [
+            {
+                "entity_group": "PER",
+                "score": 0.9966373443603516,
+                "word": "T. Telma",
+                "start": 7,
+                "end": 15
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9378651976585388,
+                "word": " T. Asidopam",
+                "start": 61,
+                "end": 72
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9983967542648315,
+                "word": " T. Matieda",
+                "start": 88,
+                "end": 98
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.6429153680801392,
+                "word": ".",
+                "start": 151,
+                "end": 152
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7030176520347595,
+                "word": " catzor",
+                "start": 153,
+                "end": 159
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.6367589235305786,
+                "word": ".",
+                "start": 206,
+                "end": 207
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.6367588639259338,
+                "word": ".",
+                "start": 233,
+                "end": 234
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.6367586255073547,
+                "word": ".",
+                "start": 265,
+                "end": 266
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5880496501922607,
+                "word": " part",
+                "start": 267,
+                "end": 271
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7238913774490356,
+                "word": "id",
+                "start": 273,
+                "end": 275
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9074380397796631,
+                "word": "T. Matilda",
+                "start": 290,
+                "end": 300
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.6367589831352234,
+                "word": ".",
+                "start": 315,
+                "end": 316
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7250577807426453,
+                "word": "\nAIC",
+                "start": 339,
+                "end": 343
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7540520429611206,
+                "word": " IHGAIC\nvaiblan\nV",
+                "start": 428,
+                "end": 444
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.5225183367729187,
+                "word": "ail",
+                "start": 444,
+                "end": 447
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.5086868405342102,
+                "word": "bow",
+                "start": 447,
+                "end": 450
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.6367591023445129,
+                "word": ".",
+                "start": 484,
+                "end": 485
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.907839298248291,
+                "word": " T. tomells",
+                "start": 520,
+                "end": 530
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.7545748949050903,
+                "word": " glades",
+                "start": 558,
+                "end": 564
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.907716691493988,
+                "word": " T. Dataye",
+                "start": 579,
+                "end": 588
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.7324034571647644,
+                "word": ". vel tam",
+                "start": 606,
+                "end": 615
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9134849309921265,
+                "word": " c. Etoshisin",
+                "start": 639,
+                "end": 651
+            }
+        ]
+    },
+    {
+        "doc_ans": "UMESH AGARWAL",
+        "user_ans": "MITHLESH KAUSHIK",
+        "ocr_text": "9:09 AM\nVo\nWiFi\n86\nEdit\n4\nDr Lal PathLabs\nRegd. Office Dr La PathLabs Ltd. Back E Sector 18 Rohini New Delhi 110085\nWeb CIN:L74899CL 1995PLC065388\nName\n: Ms. MITHLESH KAUSHIK\nLab No.\n: 437662013\nAge\n:\n75 Years\nRef By\n: DR UMESH AGARWAL\nGender\n: Female\nCollected\n: 16/9/2023 3:13:00PM\nReported\n: 16/9/2023 9:29:42PM\nA/c Status\n: P\nReport Status\n: Final\nCollected at\n: FPSC N.L. DIAGNOSTIC\nProcessed at : LPL-MEERUT LAB\n62/2,CIVIL LINES, near dhanvantari hospit\n1st Floor, Hall No. 101, 1st Floor of Shree\nMEERUT\nRam Commercial Complex Shraddhapuri,\nPhase 2. NH-58. Meerut, UP 250001\nTest Report\nTest Name\nResults\nUnits\nBio. Ref. Interval\nDENGUE FEVER ANTIGEN, NS1, EIA, SERUM\n(ELISA)\nDENGUE FEVER ANTIGEN NS1 EIA\n9.47\nIndex\nInterpretation\nRESULT(INDEX)\nREMARKS\nNegative\nNo detectable Dengue NS1 antigen. The Result does not rule out Dengue infection.\n(0.0-0.9)\nAn additional sample should be tested for IgG & IgM serology in 7-14 days.\nEquivocal\nRepeat sample after 1 week\n(0.9-1.1)\nPositive\nPresence of detectable dengue NS1 antigen. Dengue IgG & IgM serology assay\n(>1.1)\nshould be performed on follow up samples after 5-7 days of onset of fever. to\nconfirm dengue infection.\nNote: Recommended test is NS1 Antigen by ELISA in the first 5 days of fever. After 7-10 days of fever, the\nrecommended test is Dengue fever antibodies IgG & IgM by ELISA\nComments\nDengue viruses belong to the family Flaviviridae and have 4 subtypes (1-4) Dengue virus is transmitted by the\nmosquito Aedes aegypti and Aedes albopictus, widely distributed in Tropical and Subtropical areas of the\nworld Dengue is considered to be the most important arthropod borne viral disease due to the human\nmorbidity and mortality it causes The disease may be subclinical, self limiting. febrile or may progress to a\nsevere form of Dengue hemorrhagic fever or Dengue shock syndrome\nJain.\nI\nfor\nDr Ankit Jain\nDr Abhinav Sharma\nDr Sonal Jindai\nMD Pathology\nMBBS MD Pathology\nMD. Microbiology\nChief of Laboratory\nConsultant Pathologist\nConsulant Microbiologist\nDr Lal Pathi abs Ltd\nDr LA PathLabs Ltd\nDr Lal PathL abs Ltd\nPage of 2\nIf\nTest results are alarming or unexpected, client is advised to contact the Customer Care immediately for possible remedial action.\nTel: 011-4988-5050. Fax: +91-11-2788-2134, E-mail: customer.care@lalpathlabs.com\nDr Lal PathLabs\nRegd Office: Dr La PathLabs Ltd. Bock E. Sector 18 Rohini New Delhi 10085\nWeb: www alpathiaba cm CIN: L748990L 995PLC065388\nName\n: Ms. MITHLESH KAUSHIK\nLab No.\n: 437662013\nAge\n: 75 Years\nRef By\n:\nDR UMESH AGARWAL\nGender\n: Female\nCollected\n: 16/9/2023 3:13:00PM\nReported\n16/9/2023 9:29:42PM\nA/c Status\n: P\nReport Status\n: Final\nCollected at\n: FPSC N.L DIAGNOSTIC\nProcessed at\n:\nLPL-MEERUT LAB\n62/2,CIVIL LINES near dhanvantari hospit\n1st Floor, Hall No. 101, 1st Floor of Shree\nW\nTools\nMobile View\nShare\nPDF to DOC\nEdit on PC\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.9940468072891235,
+                "word": "Dr Lal PathLabs",
+                "start": 26,
+                "end": 41
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9984950423240662,
+                "word": " Dr La PathLabs Ltd",
+                "start": 55,
+                "end": 73
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9956960678100586,
+                "word": " Rohini New Delhi",
+                "start": 92,
+                "end": 108
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9984611868858337,
+                "word": " MITHLESH KAUSHIK",
+                "start": 158,
+                "end": 174
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9978249073028564,
+                "word": " UMESH AGARWAL",
+                "start": 222,
+                "end": 235
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9922298789024353,
+                "word": " FPSC N",
+                "start": 367,
+                "end": 373
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9876638054847717,
+                "word": "L",
+                "start": 374,
+                "end": 375
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7685069441795349,
+                "word": " DIA",
+                "start": 377,
+                "end": 380
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9861457943916321,
+                "word": " LPL-MEERUT",
+                "start": 403,
+                "end": 413
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9411177635192871,
+                "word": " dhanvantari hosp",
+                "start": 441,
+                "end": 457
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7564165592193604,
+                "word": " Shree\nMEERUT",
+                "start": 498,
+                "end": 510
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.8924880623817444,
+                "word": "\nRam Commercial Complex Shraddhapuri",
+                "start": 510,
+                "end": 546
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.997210681438446,
+                "word": " Meerut",
+                "start": 564,
+                "end": 570
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9874129295349121,
+                "word": " UP",
+                "start": 572,
+                "end": 574
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7891230583190918,
+                "word": "ELISA",
+                "start": 676,
+                "end": 681
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8108724355697632,
+                "word": " ELISA",
+                "start": 1218,
+                "end": 1223
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7945290803909302,
+                "word": " ELISA",
+                "start": 1341,
+                "end": 1346
+            }
+        ]
+    },
+    {
+        "doc_ans": "PRAMOD BHILARE",
+        "user_ans": "SHRADDHA PINGALE",
+        "ocr_text": "Mumbai\nPune\n2660 0505\nTel:022 4342 8888\nBangalore\nTel ono 4046\nMRS SHRADDHA PINGALE\nDATE\nNM\n17.09.2023\nREF BY\nDR. PRAMOD BHILARE\nPAGE NO\n1 OF 2\nLD NO.\nMRI SCAN OF THE LUMBAR SPINE WITH WHOLE SPINE SCREENING\nTECHNIQUE: Multiplanar, multiecho MR screening of the lumbar spine with whole\nscreening was performed.\nspine\nFINDINGS:\nstraightening of the lumbar spine is indicative of paraspinal spasm. No evidence of lysis\nlisthesis.\nThe vertebrae are normal in height and marrow signals. No focal lesion is seen.\nThe L3-L4 to L5-S1 disc reveal early desiccative changes.\nL3-L4 disc bulge with left far lateral disc protrusion and partial annular tear\nDiffuse disc herniation) intense exiting left L3 and traversing L4 nerve roots with mild\nleft (acute neural foraminal and lateral recess encroachment.\nDiffuse L4-5 disc bulge indents thecal sac and traversing both L5 nerve roots, without\nneural compression.\nDiffuse posterior L5-S1 disc bulge indents anterior epidural fat and traversing both S1\nnerve roots.\nThe facetal joints and ligamentum flavum are normal.\nthe lower thoracic cord is normal. The conus medullaris reveals normal signal intensity.\nThe pre and paraspinal soft tissues are normal.\nThe visualised sacroiliac joint spaces are normal.\nScreening MRI of Whole Spine Reveals: -\nThe cervicothoracic vertebrae are normal in height and marrow signal intensity.\nDiffuse posterior C4-C5 and C5-C6 disc bulges indent respective exiting C5/C6 nerve\nroots.\nThe spinal cord is normal in calibre and signal intensity.\nsan\nAddress:\nKalyani Nagar: Fortaleza, Central Avenue, Kalyani Nagar, Pune-411006 Tel: 2660 0505\nNM ME\nSancheti Hosp: SIOR Building, 16, Shivaji Nagar, Pune - 411 005 Tel: 2552 0505\npune@nmmedical.com www\n",
+        "ner_output": [
+            {
+                "entity_group": "LOC",
+                "score": 0.9961488246917725,
+                "word": " Mumbai",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9964410066604614,
+                "word": "Pune",
+                "start": 7,
+                "end": 11
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9973592758178711,
+                "word": "Bangalore",
+                "start": 40,
+                "end": 49
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9978593587875366,
+                "word": " SHRADDHA PINGALE",
+                "start": 67,
+                "end": 83
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9969127774238586,
+                "word": " PRAMOD BHILARE",
+                "start": 114,
+                "end": 128
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6512582302093506,
+                "word": "\nsan",
+                "start": 1514,
+                "end": 1518
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9952370524406433,
+                "word": "Kalyani Nagar",
+                "start": 1528,
+                "end": 1541
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9957242012023926,
+                "word": " Fortaleza",
+                "start": 1543,
+                "end": 1552
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9754416942596436,
+                "word": " Central Avenue",
+                "start": 1554,
+                "end": 1568
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9960687756538391,
+                "word": " Kalyani Nagar",
+                "start": 1570,
+                "end": 1583
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9972667694091797,
+                "word": " Pune",
+                "start": 1585,
+                "end": 1589
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6173879504203796,
+                "word": "\n",
+                "start": 1617,
+                "end": 1618
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9371299743652344,
+                "word": "Sancheti Hosp",
+                "start": 1618,
+                "end": 1631
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.4800852835178375,
+                "word": " SI",
+                "start": 1633,
+                "end": 1635
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.7140625715255737,
+                "word": "OR Building",
+                "start": 1635,
+                "end": 1646
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9936306476593018,
+                "word": " Shivaji Nagar",
+                "start": 1652,
+                "end": 1665
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9051150679588318,
+                "word": " P",
+                "start": 1667,
+                "end": 1668
+            }
+        ]
+    },
+    {
+        "doc_ans": null,
+        "user_ans": "SRINIVAS N",
+        "ocr_text": "MRI CT SCAN a DIGITAL X-RAY # 4D ULTRASOUND . ECG . ROUTINE & SPECIALIZED BLOOD TESTS\nName\nMR. SRINIVAS N\nAge/Gender\n: 56 years /M\nReferred By\nId\n: T346710\n: HEALTHINDIA INSURANCE TPA SERVICE PVT\nLTD\nSample Collected On\n: 05/06/2023\nTEST NAME\nRESULT\nREFERENCE RANGE\nBlood Urea Nitrogen (BUN)\n10.2\n(CALCULATION)\n8.41 -25.7 mg/dl\nCreatinine\n0.8\n0.8 - 1.3 mg/dL\n( Sarcosine Oxidase)\nUric Acid\n5.0\n3.6 - 8.2 mg/dL\n(Uricase)\nLIPID PROFILE\nCholesterol (Total)\n167\nNormal: < 200 mg/dL\n( CHOD-PAP)\nBorderline: 201 - 239 mg/dL\nHigh: > 240 mg/dL\nTriglycerides\n106\nNormal: < 150 mg/dL\n(GPO-POD)\nBorderline: 151 - 199 mg/dL\nHigh: > 200 mg/dL\nHDL Cholesterol\n51.9\nNormal: > 35 mg/dL\n(Direct Measure)\nBorderline: 30 - 35 mg/dL\nLow: < 30 mg/dL\nLDL Cholesterol Direct\n92.7\nNormal: 60 - 130 mg/dL\n(Direct Measure)\nBorderline: 131 - 150 mg/dL\nHigh: > 150 mg/dL\nVLDL\n21.2\n< 40 mg/dl\n(CALCULATION)\nCholesterol / HDL Ratio\n3.22\nNormal: < 3.3\n(CALCULATION)\nLow Risk: 3.3 - 4.4\nAverage risk: 4.4 - 7.1\nModerate Risk: 7.1 - 11\nHigh Risk: > 11.0\nDEPARTMENT OF CLINICAL PATHOLOGY\nUrine Complete\n(Urine Strip)\nColour\nYELLOW\nApperance\nSLIGHTLY CLOUDY\nPH\n6.0\nSpecific Gravity\n1.020\nProtein\nNIL\nGlucose\nNIL\nKetone\nNIL\nNitrite\nNEGATIVE\nBile salt\n",
+        "ner_output": [
+            {
+                "entity_group": "MISC",
+                "score": 0.6341345906257629,
+                "word": " MRI",
+                "start": 0,
+                "end": 3
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9887648820877075,
+                "word": " SRINIVAS N",
+                "start": 95,
+                "end": 105
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8855741620063782,
+                "word": " HEALTHINDIA INS",
+                "start": 158,
+                "end": 173
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7644250392913818,
+                "word": " TPA",
+                "start": 180,
+                "end": 183
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7338829636573792,
+                "word": "MENT OF CL",
+                "start": 1027,
+                "end": 1037
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7201392650604248,
+                "word": " PATHOLOGY",
+                "start": 1044,
+                "end": 1053
+            }
+        ]
+    },
+    {
+        "doc_ans": "Skanda S",
+        "user_ans": "Mughil M",
+        "ocr_text": "E\nkauvery\nFAMILY HOSPITAL\nhospital\nMC-3458\nTrichy - Cantonment\n6. Royal Rd, Cantonment, Tiruchirappalli, Tamil Nadu 620001\nLABORATORY REPORT\nPatient\n: Mr. Mughil M\nIP/OP : OOBCN23014465 Order No : SO363005\nAge/Gender : 25 Years / Male\nUHID : CN170000190039 Order Date : 17-09-2023\nReferred by : Dr. Skanda S. MS, MCh, , and Team (Plastic Surgery)\nOrder Time : 11:59AM\nPassPort No :\nReport : 17-09-2023\nReport : 12:56PM\nInvestigation Name\nFindings\nUnit\nBiological Reference\nSEROLOGY\nHBsAg (ECLIA)\nNEGATIVE (0.575)\n<1.0 Negative\nECLIA\n1.0 Positive\nS They\nDr. Thilagavathy S, MD.\nApproved By\nDr. Rengaraj.\nVerified By\nBill Printed On 17-SEP-2023 13:20:04 PM Printed By Dr. Rengaraj.A\nPage3 of 3\nKauvery Hospital\nNeuberg Ehrlich Laboratory Pvt. Ltd.\nCantonment: No.6, Royal Road, Cantonment, Trichy - 620 001.\nCantonment: No.6, Royal Road, Contonment, Trichy - 620 001.\nPhone: +91 - 431 - 4077 777\nPhone +91 - 431 . 4077 777\n",
+        "ner_output": [
+            {
+                "entity_group": "LOC",
+                "score": 0.87138432264328,
+                "word": " E\nkauvery\nFAMILY HOSPITAL\nhospital",
+                "start": 0,
+                "end": 34
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6415174007415771,
+                "word": "\n",
+                "start": 34,
+                "end": 35
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.5606270432472229,
+                "word": "MC",
+                "start": 35,
+                "end": 37
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9970889091491699,
+                "word": "Trichy",
+                "start": 43,
+                "end": 49
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9930232167243958,
+                "word": " Cantonment",
+                "start": 52,
+                "end": 62
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9815335273742676,
+                "word": " Royal Rd",
+                "start": 66,
+                "end": 74
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9956727027893066,
+                "word": " Cantonment",
+                "start": 76,
+                "end": 86
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9980512857437134,
+                "word": " Tiruchirappalli",
+                "start": 88,
+                "end": 103
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9991618990898132,
+                "word": " Tamil Nadu",
+                "start": 105,
+                "end": 115
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9973713159561157,
+                "word": " Mughil M",
+                "start": 155,
+                "end": 163
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9968221783638,
+                "word": " Skanda S",
+                "start": 299,
+                "end": 307
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.715445339679718,
+                "word": "ECLIA",
+                "start": 489,
+                "end": 494
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9984509348869324,
+                "word": " Thilagavathy S",
+                "start": 557,
+                "end": 571
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9989299774169922,
+                "word": " Rengaraj",
+                "start": 593,
+                "end": 601
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9968379735946655,
+                "word": " Rengaraj",
+                "start": 670,
+                "end": 678
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9800251126289368,
+                "word": "\nKauvery Hospital",
+                "start": 691,
+                "end": 708
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9869304895401001,
+                "word": "\nNeuberg Ehrlich Laboratory Pvt",
+                "start": 708,
+                "end": 739
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9966955184936523,
+                "word": " Ltd",
+                "start": 741,
+                "end": 744
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9867594242095947,
+                "word": " Royal Road",
+                "start": 764,
+                "end": 774
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9963986277580261,
+                "word": " Cantonment",
+                "start": 776,
+                "end": 786
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.997492790222168,
+                "word": " Trichy",
+                "start": 788,
+                "end": 794
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9860533475875854,
+                "word": " Royal Road",
+                "start": 824,
+                "end": 834
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9957156777381897,
+                "word": " Contonment",
+                "start": 836,
+                "end": 846
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9974381327629089,
+                "word": " Trichy",
+                "start": 848,
+                "end": 854
+            }
+        ]
+    },
+    {
+        "doc_ans": "B Ramest",
+        "user_ans": null,
+        "ocr_text": "Dr. 6. Ramesh. MU. vm\nRamesh Cardiology Clin\nProfessor of cardiology\nHead of cardiology department,\nApollo Hospital Bannerghatta Road,\nBangalore\n2040 : Girija Raju (45y, Female) - 9972227227\nDate: 24-Aug-202\nComplaints: SYMPTOMFREE, NO H/O CHESTPAIN/BREATHLESNESS\nBP 168 / 98 mmHg Pulse 94 bpm Height 154 cm Weight 61.4 kg BMI 25.89 Kg/m2 SPO2 98%\n[24-Aug-2022] ECG:NORMAL\nDiagnosis: TYPE 2 DIABETES HYPERTENSION , HYPOTHYROIDISM\nRX\nMedicine\nDosage\nTiming - Freq. - Duration\n1) ECOSPRIN AV 75/20\n0-0-1\nAfter Food Daily\nComposition\n1 ASPIRIN 75 MG + ATORVASTATIN 20 MG\nNote\n: CONTINUE\n2) AMLONG 5MG TABLET\n1-0-0\nBefore Food - Daily\nComposition : AMLODIPINE 5 MG\nNote\n: CONTINUE\n3) PROLOMET T ER 25 MG TABLET\n1-0-1\nBefore Food Daily\nComposition\n: METOPROLOL 25 MG + TELMISARTAN 40 MG\nNote\n: CONTINUE\n4) ZUCAPRIDE M 500 MG\n1 - 0 - 0\nAfter Food Daily\nComposition\n: DAPAGLIFLOZIN 10 MG + METFORMIN 500 MG\nNote\n: CONTINUE\n5) GLIMY 1MG TABLET\n1-0-0\nBefore Food - Daily\nComposition\n: GLIMEPIRIDE 1 MG\nNote\n: CONTINUE\n6) THYRONORM 50 MCG\n1-0-0\nBefore Food Daily\nComposition\n: LEVOTHYROXINE 50 MCG\nNote\n: CONTINUE\nDr B Ramest\nPowered by HealthPlix EMR. www.healthplix.com\n#2231, 23rd Cross, Banashankari 2nd Stage, Opp. National Co-operative Bank / Bata S\nBANGALORE - 560070 Ph: 080 4206 5404, 974 1955444\nE-mail : rameshbcardio@gmail.com\n",
+        "ner_output": [
+            {
+                "entity_group": "PER",
+                "score": 0.9353605508804321,
+                "word": " 6",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9929237365722656,
+                "word": " Ramesh. MU",
+                "start": 7,
+                "end": 17
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9746866226196289,
+                "word": " vm\nRamesh",
+                "start": 19,
+                "end": 28
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.812283992767334,
+                "word": " Cardiology",
+                "start": 29,
+                "end": 39
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9813076257705688,
+                "word": "\nApollo Hospital Bannerghatta Road",
+                "start": 99,
+                "end": 133
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9964678883552551,
+                "word": "Bangalore",
+                "start": 135,
+                "end": 144
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9993679523468018,
+                "word": " Girija Raju",
+                "start": 152,
+                "end": 163
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9942700862884521,
+                "word": ".",
+                "start": 329,
+                "end": 330
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5238109230995178,
+                "word": " ECOS",
+                "start": 478,
+                "end": 482
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.58391934633255,
+                "word": " ATOR",
+                "start": 549,
+                "end": 553
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5157620310783386,
+                "word": " AM",
+                "start": 587,
+                "end": 589
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.47549527883529663,
+                "word": " AM",
+                "start": 645,
+                "end": 647
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.46193426847457886,
+                "word": " PROL",
+                "start": 680,
+                "end": 684
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6339401006698608,
+                "word": " METOPROLOL",
+                "start": 745,
+                "end": 755
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6944746971130371,
+                "word": "ELMISART",
+                "start": 765,
+                "end": 773
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.4615704119205475,
+                "word": " ZUCAP",
+                "start": 801,
+                "end": 806
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6223869323730469,
+                "word": " DAPAGLI",
+                "start": 861,
+                "end": 868
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.3730011582374573,
+                "word": " GLIM",
+                "start": 919,
+                "end": 923
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.4015294909477234,
+                "word": " GL",
+                "start": 976,
+                "end": 978
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.41808658838272095,
+                "word": "IM",
+                "start": 978,
+                "end": 980
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5017584562301636,
+                "word": " THYRON",
+                "start": 1012,
+                "end": 1018
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6017688512802124,
+                "word": " LE",
+                "start": 1067,
+                "end": 1069
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.53336501121521,
+                "word": "OTH",
+                "start": 1070,
+                "end": 1073
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9711236357688904,
+                "word": " B Ramest\n",
+                "start": 1107,
+                "end": 1116
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8969076871871948,
+                "word": " HealthPlix EMR",
+                "start": 1127,
+                "end": 1141
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9212474822998047,
+                "word": " Cross",
+                "start": 1174,
+                "end": 1179
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9913902878761292,
+                "word": " Banashankari",
+                "start": 1181,
+                "end": 1193
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9774762988090515,
+                "word": " National Co-operative Bank",
+                "start": 1210,
+                "end": 1236
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.6860831379890442,
+                "word": " Bata S",
+                "start": 1239,
+                "end": 1245
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9967357516288757,
+                "word": "BANGALORE",
+                "start": 1246,
+                "end": 1255
+            }
+        ]
+    },
+    {
+        "doc_ans": null,
+        "user_ans": null,
+        "ocr_text": "GE Healthcare\nREF 1019728LSI\nCE\nLOT D734\nGE MAC1200 ST\nDHARMENDER, YADAU\nMale\nHR\n59 bpm\nMeasurement Results:\nInterpretation:\nQRS\n:\n92 MS\n-90\n< T\nQT/QTcB\n:\n388 MS\n7/1\n*\n392 /\n< QRS\nPR\n:\nMS\naVR\naUL\nP\n:\nMS\n0 I\nRR/PP\n:\n1018 /\n220 MS\nM * The\n,\nP/QRS/T :\n/ 20/\n15 degrees\nIII\n+90 II\naVF\nUnconfirmed report.\nU1\nI II U2\nIII\nV3\nALL\nN\nAUR\nU4\nAUL\nUS\n/n\nAUF\nvan\nIIIII\n01.Jan.2001 00:03:44\n25mm/s 10mm/mU ADS 50Hz 0.08 - 20Hz 6_F1_R Automatic U6.2 M12i (1) 12SL@u231\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.9794602394104004,
+                "word": " GE Healthcare\nREF",
+                "start": 0,
+                "end": 17
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.8189776539802551,
+                "word": "DHARMENDER",
+                "start": 55,
+                "end": 65
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.5350750088691711,
+                "word": " YADAU",
+                "start": 67,
+                "end": 72
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.9756337404251099,
+                "word": " U6",
+                "start": 430,
+                "end": 432
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.9454089999198914,
+                "word": "2 M12i",
+                "start": 433,
+                "end": 439
+            }
+        ]
+    },
+    {
+        "doc_ans": "SHIKHAR KUMAR",
+        "user_ans": "MALLAMMA MOGILI",
+        "ocr_text": "DEPARTMENT OF LABORATORY MEDICINE\nYASHODA\nHOSPIGALS\nHOSPITALS\nAge: 73 YRS Gender: FEMALE\nPatient Name : MRS.MALLAMMA MOGILI\nBilled on : 17/09/2023 01:32:43PM\nYH NO\n: 600062267\nCollected on : 17/09/2023 01:58:26PM\nDiag.No.\n: 825630\nReceived on : 17/09/2023 01:59:07PM\nIP No.\n: 18758\nReported on : 17/09/2023 03:27:42PM\nSpecimen Type : SERUM\nLocation : GW10 C-08\nRef.Doctor\n: DR.SHIKHAR KUMAR\nReport Status: FINAL\nCLINICAL BIOCHEMISTRY\nTest\nResult\nBiological Ref Interval\nUnits\nTSH\n<0.0100\n0-4 Days : 1.0-39.0\n2-20 Weeks : 1.7 9.1\n21 Weeks-20 Yrs :0.7-6.40\n>20 Yrs : 0.465 4.68\nPregnancy :\nFirst trimester : 0.3 4.5\nSecond trimester:0,5-4.6\nThird trimester : 0.8 - 5.2\n(Enhanced Chemiluminiscence)\nComments : TSH secretion by the anterior pituitary is controlled by thyrotropin releasing hormone, a tripeptide produced by the\nhypothalamus. TSH stimulates the production of thyroxine (T4) and triiodothyronine (T3) by the thyroid gland. The\ncirculating free fractions of T4 and T3 in turn regulate the secretion of TSH by a negative feedback mechanism at\nthe pituitary and possibly the hypothalamus. The diagnosis of overt hypothyroidism by the finding of a low total T4\nor free T4 concentration is readily confirmed by a raised TSH concentration. Measurement of low or undetectable\nTSH concentrations may assist the diagnosis of hyperthyroidism.\nEND OF TEST REPORT -\nArpite\nDR.ARPITA MISHRA M.D\nConsultant Biochemistry\nTyped By LB9013\nYASHODA Yashoda Healthcare Services Praded Hitec City, Cyber Towers to JNTU Road, Hyderabad, Telangana-500084, www.yashodahos\nCyber ToweKindly CO-\nHitec City\nRegistered Office 16-10-29,Nalgonda X Roads Malakpet,\nHyderabad Telangana 500 036\nCorporate Identity Number (CIN): U45200TG1993PTC016175\nFOR EMERGENCY/QUERIES\nFOR APPOINTMENTS\n040 6723 2324 (24 HRS)\n040 4567 4567 (24 HRS)\nhitecclty@yashodamail.come www.yashodahospitals.com\nPage 2 of 2\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.7898184061050415,
+                "word": "PARTMENT OF LABORATORY MEDICINE\nYASHODA\nHOSPIGALS\nHOSPITALS",
+                "start": 2,
+                "end": 61
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9986560344696045,
+                "word": "MALLAMMA MOGILI",
+                "start": 108,
+                "end": 123
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.6037537455558777,
+                "word": " GW",
+                "start": 351,
+                "end": 353
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.998909592628479,
+                "word": "SHIKHAR KUMAR",
+                "start": 377,
+                "end": 390
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8395765423774719,
+                "word": "\nArpite",
+                "start": 1364,
+                "end": 1371
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9974549412727356,
+                "word": "ARPITA MISHRA",
+                "start": 1375,
+                "end": 1388
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9273977875709534,
+                "word": "YASHOD",
+                "start": 1433,
+                "end": 1439
+            }
+        ]
+    },
+    {
+        "doc_ans": "Apurv Veer Sharma",
+        "user_ans": "Apurv Veer Sharma",
+        "ocr_text": "An ISO 9001 : 2015\nRAYS DIAGNO INTERVENTIONS PVT. Certified LTD.\nIMPRESSION: MR findings reveal-\nMALIGNANT GROWTH AT THE JUNCTION OF HEAD AND NECK REGION OF PANCREAS\nCAUSING ABRUPT CUT OFF OF MID CBD AND PROXIMAL PANCREATIC DUCT WITH\nGROSS BILOBAR IHBRD\nTHE MASS IS ABUTTING THE SMA BY LESS THAN 1800 AND ENCASING THE SMV WITH\nSEVERE NARROWING AT THE PORTOMESOCAVAL JUNCTION\nMODERATE ASCITES.\nGALL BLADDER SLUDGE.\nPlease correlate clinically.\nEnd Of Report\n3.0 T MRI\nDr. Apurv Veer Sharma\nDr. Anubha Pandey Sharma\nMBBS. MD, RADIODIAGNOSIS IMS Bill.\nMBBS, MD. RADIODIAGNOSIS, IPGMER Kolkata\n(PDCC, NEURO AND VASCULAR/INTERMENTIONAL\nEx. SR. IMS. BHU, Ex. SR. SGPGIMS\nRADIOLOGY) SGPGIMS, Ex. SR SGP6IMS\nFormer Assistant Prof. LLRM Medical College\n3.0 TESLA MRI with 3 D APT 500 SLICE CARDIAC CT SCAN 5D USG COLOUR DOPPLER\nDSA ADVANCED DIGITAL X-RAY e OPG COMP. (E.E.G., P.F.T., E.C.G.) PATHOLOGY\nALL\nTHIS TEST OPINION HAVE IS TECHNICAL NOT VALID LIMITATION IF RESULTS ARE HIGHLY DISCREPANT PLEASE CONTACT\n( IF NOT. CENTRE FOR MEDICOLEGAL OR JUDICIAL LAB FOR A RECHECK MISTAKE WITHIN 3\nIS NOT RESPONSIBLE ) THIS REPORT IS TO PURPOSE HELP YOU FOR PLEASE BETER INTIMATE PATIENT FOR MANAGEMENT ANY TYPING\nDAYS\n",
+        "ner_output": [
+            {
+                "entity_group": "MISC",
+                "score": 0.8433247804641724,
+                "word": " ISO 9001 : 2015",
+                "start": 3,
+                "end": 18
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9264954328536987,
+                "word": " DIAGNO INTERVENTIONS PVT",
+                "start": 24,
+                "end": 48
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9856382012367249,
+                "word": " Certified LTD",
+                "start": 50,
+                "end": 63
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5530807375907898,
+                "word": " MR",
+                "start": 77,
+                "end": 79
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.6902976036071777,
+                "word": " PANC",
+                "start": 157,
+                "end": 161
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.5803945064544678,
+                "word": "AS",
+                "start": 163,
+                "end": 165
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9784219861030579,
+                "word": " IHBRD",
+                "start": 248,
+                "end": 253
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6550906896591187,
+                "word": " MRI",
+                "start": 463,
+                "end": 466
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9984574317932129,
+                "word": " Apurv Veer Sharma",
+                "start": 471,
+                "end": 488
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.998514711856842,
+                "word": " Anubha Pandey Sharma",
+                "start": 493,
+                "end": 513
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6496198177337646,
+                "word": " IMS",
+                "start": 539,
+                "end": 542
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.4540788531303406,
+                "word": "MB",
+                "start": 549,
+                "end": 551
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9915361404418945,
+                "word": " IPGMER Kolkata",
+                "start": 575,
+                "end": 589
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9631573557853699,
+                "word": " BHU",
+                "start": 644,
+                "end": 647
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9827637672424316,
+                "word": " SGPGIMS",
+                "start": 657,
+                "end": 664
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.995589017868042,
+                "word": " SGPGIMS",
+                "start": 676,
+                "end": 683
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9656167030334473,
+                "word": " SGP6IMS",
+                "start": 692,
+                "end": 699
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8539177179336548,
+                "word": " LLRM Medical College",
+                "start": 723,
+                "end": 743
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8181622624397278,
+                "word": "ESLA MRI",
+                "start": 749,
+                "end": 757
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9515909552574158,
+                "word": "\nDSA",
+                "start": 818,
+                "end": 822
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8048291206359863,
+                "word": " OPG",
+                "start": 848,
+                "end": 851
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.47047701478004456,
+                "word": "E",
+                "start": 859,
+                "end": 860
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.5063251256942749,
+                "word": "E",
+                "start": 861,
+                "end": 862
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.6719361543655396,
+                "word": " P",
+                "start": 867,
+                "end": 868
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.5034939050674438,
+                "word": "F",
+                "start": 869,
+                "end": 870
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.5685547590255737,
+                "word": " E",
+                "start": 875,
+                "end": 876
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.5459585189819336,
+                "word": "C",
+                "start": 877,
+                "end": 878
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8660915493965149,
+                "word": "RE FOR MEDICOLEG",
+                "start": 1016,
+                "end": 1032
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7090747952461243,
+                "word": " LAB",
+                "start": 1047,
+                "end": 1050
+            }
+        ]
+    },
+    {
+        "doc_ans": null,
+        "user_ans": null,
+        "ocr_text": "OLIVE HEART CLINIC\nName\nIDS 2023072 MR SUNCAR\nASSOC\nis 3rd Main Read Alwarpet Chenna\nAge\nGender\n618\nTelephones\nAdult DO Cardiolo\nFax:\nWebsite\nEquipment Used Date Ministrar\nCardiology - 1 / 2 Page\nM Measurements\nLV\nIVSs:1.69cm\nIVSc:1:09cm\nLVIDs:2.42cm\nLVIDd:4.24cm\nLVPWs:1.61cm\nLVPWd:1.17cm\nIVSs/LVPWs:1.0S\nIVSd/LVPWd:0.93\nLV Mass(Cube):192g\nFS:42.86%\nTelchholz\nEDV(Teich):80.19ml\nESV(Telch):20.60ml\nSV(Teich):59.59ml\nEF(Telch):74,31%\nAorta & Aorta Valve\nLA/Ae(M)\nAo Diam:2.58cm\nLA Diam:3.35cm\nLA/Ao:1.30\nDoppler Measurements\nMitral Valve\nMV Vel:85.67cm/s\nMV E PG:2.94mmHg\nMV A Vel:111.60cm/s\nMV A PG:4.98mmHg\nMV E/A:0.77\nAortic\nAorta Valve\nAV Vmax:83.81cm/s\nAV PGmax:2.81mmHg\nPulmonary Valve\nPV\nPV Vmax:102.80cm/s\nPV PGmax:4.23mmHg\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.7615551948547363,
+                "word": " SUNCAR",
+                "start": 39,
+                "end": 45
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6188806891441345,
+                "word": "ASSOC\nis",
+                "start": 46,
+                "end": 54
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7720821499824524,
+                "word": " Alwarpet Chenna",
+                "start": 69,
+                "end": 84
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.5977015495300293,
+                "word": " Cardiolo",
+                "start": 120,
+                "end": 128
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9738073348999023,
+                "word": "Telchholz",
+                "start": 351,
+                "end": 360
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9917795658111572,
+                "word": "Teich",
+                "start": 365,
+                "end": 370
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9832340478897095,
+                "word": "Telch",
+                "start": 384,
+                "end": 389
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9901858568191528,
+                "word": "Teich",
+                "start": 402,
+                "end": 407
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9821354150772095,
+                "word": "Telch",
+                "start": 420,
+                "end": 425
+            }
+        ]
+    },
+    {
+        "doc_ans": null,
+        "user_ans": "Vishnu",
+        "ocr_text": "Pariyaram Scan\nHigh Resolution Ultrasound Scan\nloudes\nRadiology Solutions\nDEPARTMENT OF RADIOLOGY AND IMAGING\nRadiology-Ultrasound\nName: Mr. Vishnu\nGender: Male\nAge: 29 Years\nUHID: ACC6.\nBill No: ACR\nDate: 20.09.2023\nRef. By: Taliparamba Co-operative Hospital Society\nUltrasound Abdomen and Pelvis\nLIVER: Liver is normal in size and shows mildly increased echotexture. No focal\nintra-hepatic lesion detected. Intra-hepatic biliary radicles are not dilated.\nPortal vein is normal in caliber. Lumen is free.\nGALL BLADDER: Gall bladder appears distended with normal wall thickness.\nNo calculi. No pericholecystic fluid.\nCommon bile duct is not dilated.\nPANCREAS: Pancreas head and body visualized, normal in size and echopattern.\nNo calculi / Calcifications detected. Tail obscured.\nPARA AORTIC AREA: Obscured.\nSPLEEN: Spleen is normal in size and echopattern. No focal lesions.\nKIDNEYS:\nRight kidney measures: 116x50 mm, is normal in position, size and outline. Shows\nnormal cortical echogenicity. Cortico-medullary differentiation is maintained. No\ncalculi. No pelvicalyceal dilatation.\nLeft kidney measures: 110x55 mm, is normal in position, size and outline. Shows\nnormal cortical echogenicity. Cortico-medullary differentiation is maintained. No\ncalculi. No pelvicalyceal dilatation.\nSreyas Complex, Near Govt. Medical College, Kannur.\nFor Booking and Feedback :\nPariyaram - 670 503\nEmail : pariyaramscans@cloudexrad.com\n95446 58000\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.6037806868553162,
+                "word": " Pariy",
+                "start": 0,
+                "end": 5
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.524596631526947,
+                "word": "aram Scan\n",
+                "start": 5,
+                "end": 15
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.4278191328048706,
+                "word": "\n",
+                "start": 46,
+                "end": 47
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.4672829806804657,
+                "word": "oud",
+                "start": 48,
+                "end": 51
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.902749240398407,
+                "word": "es\nRadiology Solutions",
+                "start": 51,
+                "end": 73
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.844963550567627,
+                "word": "DEPARTMENT OF RADIOLOGY AND IMAGING\nRadiology-Ultrasound",
+                "start": 74,
+                "end": 130
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9916582107543945,
+                "word": " Vishnu",
+                "start": 141,
+                "end": 147
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9981541037559509,
+                "word": " Taliparamba Co-operative Hospital Society",
+                "start": 226,
+                "end": 267
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.814773678779602,
+                "word": "Sreyas Complex",
+                "start": 1286,
+                "end": 1300
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8094394207000732,
+                "word": " Govt",
+                "start": 1307,
+                "end": 1311
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.5248409509658813,
+                "word": ". Medical",
+                "start": 1311,
+                "end": 1320
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.5645064115524292,
+                "word": " College",
+                "start": 1321,
+                "end": 1328
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.981499433517456,
+                "word": " Kannur",
+                "start": 1330,
+                "end": 1336
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9879616498947144,
+                "word": "Pariyaram",
+                "start": 1365,
+                "end": 1374
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.5836225152015686,
+                "word": " pariyaram",
+                "start": 1393,
+                "end": 1402
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6631180047988892,
+                "word": "cloudexrad",
+                "start": 1408,
+                "end": 1418
+            }
+        ]
+    },
+    {
+        "doc_ans": "Shafna Banu",
+        "user_ans": "Vishnu",
+        "ocr_text": "aram Scan\nion Ultrasound Scan\nCloudes\nRadiology Solutions\nDEPARTMENT OF RADIOLOGY AND IMAGING\nRadiology-Ultrasound\nName: Mr. Vishnu\nGender: Male\nAge: 29 Years\nUHID: ACC6.\nBill No: ACR\nDate: 20.09.2023\nRef. By: Taliparamba Co-operative Hospital Society\nURINARY BLADDER: Urinary bladder is distended and normal in wall thickness\nwith clear contents. No calculi. No focal lesions. VU junctions are free.\nPROSTATE: Prostate is normal in volume, 18 cc. Shows grossly normal echo-\npattern.\nNo free fluid in the abdomen and pelvis.\nIMPRESSION:\nGrade I fatty liver.\nNo other significant sonological abnormality detected\nkouda\nIn\nDr. Shafna Banu, DMRD, DNB Radiodiagnosis\nRadiologist\nSreyas Complex, Near Govt. Medical College, Kannur.\nFor Booking and Feedback :\nPariyaram - 670 503\n95446 58000\nEmail : pariyaramscans@cloudexrad.com\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.7795499563217163,
+                "word": " aram Scan\nion",
+                "start": 0,
+                "end": 13
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8557378649711609,
+                "word": "\nCloudes\nRadiology Solutions",
+                "start": 29,
+                "end": 57
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8016849160194397,
+                "word": "PARTMENT OF RADIOLOGY AND IMAGING\nRadiology-Ultrasound",
+                "start": 60,
+                "end": 114
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9969513416290283,
+                "word": " Vishnu",
+                "start": 125,
+                "end": 131
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9945557713508606,
+                "word": " Taliparamba Co-operative Hospital Society",
+                "start": 210,
+                "end": 251
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6611095666885376,
+                "word": ".",
+                "start": 376,
+                "end": 377
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7508242726325989,
+                "word": "kouda",
+                "start": 612,
+                "end": 617
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9991885423660278,
+                "word": " Shafna Banu",
+                "start": 625,
+                "end": 636
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9842228293418884,
+                "word": " DMRD",
+                "start": 638,
+                "end": 642
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9757188558578491,
+                "word": " DNB Radiodiagnosis\nRadiologist\nSreyas Complex",
+                "start": 644,
+                "end": 689
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8578356504440308,
+                "word": " Govt",
+                "start": 696,
+                "end": 700
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.49104130268096924,
+                "word": ".",
+                "start": 700,
+                "end": 701
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.5555620193481445,
+                "word": " Medical College",
+                "start": 702,
+                "end": 717
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.978298008441925,
+                "word": " Kannur",
+                "start": 719,
+                "end": 725
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9958614706993103,
+                "word": "Pariyaram",
+                "start": 754,
+                "end": 763
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6627063751220703,
+                "word": "cloudex",
+                "start": 809,
+                "end": 816
+            }
+        ]
+    },
+    {
+        "doc_ans": "Harbinder Singh",
+        "user_ans": "Harbinder Singh",
+        "ocr_text": "METRO\nHOSPITALS & HEART INSTITUTE\n(a unit of Metro Institutes of Medical Sciences Pvt. Ltd.)\nCIN No : U00000DL1990PTC039293\nNABL & ISO 9001: 2008 Certified)\nDEPARTMENT OF MEDICAL IMAGING\nAGE/SEX\n49 Y/M\nOPD/IPD\nOPD\nNAME\nMr. Harbinder Singh\nRef.by\nDr. Kapil Kumar Singhal\nDATE\n19.10.20\nMR NO\n2801\nEXAMINATION PERFORMED - MRI BRAIN CONTRAST\nClinical details: Follow up case of inflammatory granulomas.\nFindings:\nA few cystic lesions noted involving left basifrontal, left basitemporal, bilateral occipital, bilateral parietal, left\nthalamic and right cerebellar regions. Some of the lesions are showing eccentric nodule. On post contrast\nstudy some of the lesions are showing ring enhancement. Mild perilesional edema noted in right parietal\nlesion.\nA few cystic lesions also noted in scalp of right occipital and right parietal regions.\nRemaining bilateral cerebral parenchyma is normal in morphology & signal intensity.\nBoth lateral and third ventricles are normal. Septum is in midline. Corpus callosum is normal in thickness and\nsignal intensity.\nBrainstem is in midline and reveals normal signal intensity. Fourth ventricle is normal.\nRemaining cerebellum reveals normal in morphology & signal intensity. Cerebral & cerebellar peduncles are\nnormal.\nIntracranial vascular flow voids are preserved. Hippocampus & parahippocampal region are normal. Bilateral\ncavernous sinuses are normal. Marrow of the cranial vault appears normal.\nIMPRESSION: Contrast enhanced MR study of brain reveals\nA few cystic lesions involving left basifrontal, left basitemporal, bilateral occipital, bilateral parietal,\nleft thalamic and right cerebellar regions. Some of the lesions are showing eccentric nodule. On post\ncontrast study some of the lesions are showing ring enhancement. Mild perilesional edema around one\nof the right parietal lesion. Findings are suggestive of neurocysticercosis. On comparison with previous\nMRI scan dated 15.07.2020, no significant interval change noted except for mild perilesional edema\naround right parietal lesion.\nsignificant interval change observed.\nA few cystic lesions also noted in scalp. On comparison with previous MRI scan dated 15.07.2020, no\nPlease correlate clinically.\nDr. S. Ameer Ahmed, MD\nSr. Consultant Radiologist\nDr. Vidit Sethia, DMRD, DNB\nConsultant Radiologist\nDr. Gouri Garg, MD\nConsultant Radiologist\n:- % This In case is it professional of opinion based on imaging finding and not the diagnosis * Not valid for medico-legal\nany discrepancy due to machine error or typing error. please pet it rectified immediately purposes\ndiology Wing\nector-12, Noida 201301\nMultispeciality Wing\n91 120 2533 491 2444 466, 4366 666\nL-94, Sector 11, Noida-201301\n1 120 2533 487\nTel. 2522 959, 2442 666\nE-mail : metro@metrohospitals.com. Website: www.metrohosnital\nFax +91 120 2442\nffice : 14, Ring Road, Lajpat Nagar IV, New Delhi-11002\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.9734358191490173,
+                "word": " METRO\nHOSPITALS & HEART INSTITUTE\n",
+                "start": 0,
+                "end": 34
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9992993474006653,
+                "word": " Metro Institutes of Medical Sciences Pvt",
+                "start": 45,
+                "end": 85
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.996758759021759,
+                "word": " Ltd",
+                "start": 87,
+                "end": 90
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8597865104675293,
+                "word": " ISO 9001",
+                "start": 131,
+                "end": 139
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.521837592124939,
+                "word": " MED",
+                "start": 171,
+                "end": 174
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.5369586944580078,
+                "word": " IM",
+                "start": 179,
+                "end": 181
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.6810688972473145,
+                "word": "ING",
+                "start": 183,
+                "end": 186
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9986311793327332,
+                "word": " Harbinder Singh",
+                "start": 223,
+                "end": 238
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9986883401870728,
+                "word": " Kapil Kumar Singhal",
+                "start": 250,
+                "end": 269
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.9229571223258972,
+                "word": " MRI",
+                "start": 319,
+                "end": 322
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6673606038093567,
+                "word": " MR",
+                "start": 1462,
+                "end": 1464
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8373268246650696,
+                "word": "MRI",
+                "start": 1904,
+                "end": 1907
+            }
+        ]
+    },
+    {
+        "doc_ans": "",
+        "user_ans": "SUNANDA PAGARE",
+        "ocr_text": "DR. MAYURI PATEL\nSILVASSA\nM.D. (Pathology)\nReg. No. G-15758\nPATHOLOGY LABORATORY\nTime : 8.00 a.m. to 8.00 p.m.\nSunday : 8.00 a.m. to 1.00 p.m.\nPlot No.88/1 & 89, Shop No. 101, Signature Heights-A, Opp. Pramukh Garden, Kilvani Naka Area, Silvassa-396230 Mo. : 9638317870\nPat' Name\n: SUNANDA PAGARE\nLab No.\n: 11\nAge/Sex\n: 45 YEAR / F\nRef. by Dr.\n: C C PATIL (B.A.M.S.)\nReported Date\n: 22/09/2023\nDENGUE DUO TEST\nPARAMETER\nRESULT\nUNIT\nNORMAL RANGE\nDengue Test\nNS1 Antigen\n: Positive\nIgM Antibody\n: Negative\nIgG Antibody\n: Negative\nMethod:-\nDengue Duo Panel is a qualitative immunochromatographic assay for the rapid detection of Dengue NS1 antigens and Dengue\nIgG/lgM antibodies in human blood, serum, and plasma specimens simultaneously.\nInterpretation :-\n*Dengue NS1 :-\n1). The NS1 antigen is typically detectable within 1 to 2 days following infection and up to 9 days following symptom onset.\n2). NS1 antigen may also be detectable during secondary dengue virus infection, but for a shorter duration of time (1-4 days\nfollowing symptom onset).\n3). The NS1 antigen may be negative if specimen is collected immediately following dengue virus infection (<24-48 hours) and is\nrarely detectable following 9 to 10 days of symptoms.\n*Dengue IgG :-\n1). Antiviral IgG- class antibodies appears by day 14 in primary dengue infection and by day 2 in secondary dengue infection.It\nusually persist for lifelong thereafter.\n*Dengue IgM :-\n1). The presence of IgM-class antibodies to dengue virus is consistent with acute-phase infection.\n2). IgM antibodies become detectable 3 to 7 days following infection and may remain detectable for up to 6 months or longer\nfollowing disease resolution.\n3). The absence of IgM-class antibodies to dengue virus is consistent with lack of infection. However, specimens drawn too\nsoon following exposure may be negative for IgM antibodies to dengue virus. If dengue virus remains suspected, a second\nspecimen, drawn approximately 10 to 12 days following exposure should be tested.\nEnd Of Report\nDr. Mayuri Patel\nLAB TECHNICIAN\nM.D. (Pathology)\n",
+        "ner_output": [
+            {
+                "entity_group": "PER",
+                "score": 0.9947909712791443,
+                "word": " MAYURI PATEL",
+                "start": 4,
+                "end": 16
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9179500341415405,
+                "word": "SILVASSA",
+                "start": 17,
+                "end": 25
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9778616428375244,
+                "word": " Signature Heights",
+                "start": 176,
+                "end": 193
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9919171333312988,
+                "word": " Pramukh Garden",
+                "start": 202,
+                "end": 216
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9614277482032776,
+                "word": " Kilvani Naka Area",
+                "start": 218,
+                "end": 235
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.9968084096908569,
+                "word": " Silvassa",
+                "start": 237,
+                "end": 245
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.8337400555610657,
+                "word": " Mo",
+                "start": 253,
+                "end": 255
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9903590083122253,
+                "word": " SUNANDA PAGARE",
+                "start": 282,
+                "end": 296
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.7213515639305115,
+                "word": "\n",
+                "start": 343,
+                "end": 344
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9935232996940613,
+                "word": " C C PATIL",
+                "start": 346,
+                "end": 355
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8383728265762329,
+                "word": "B.A.M",
+                "start": 357,
+                "end": 362
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8513880968093872,
+                "word": "S",
+                "start": 363,
+                "end": 364
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5620091557502747,
+                "word": "DENGUE DUO",
+                "start": 394,
+                "end": 404
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5320415496826172,
+                "word": "ue",
+                "start": 449,
+                "end": 451
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.626897931098938,
+                "word": "NS",
+                "start": 457,
+                "end": 459
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8035714626312256,
+                "word": "IgM",
+                "start": 480,
+                "end": 483
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8074386119842529,
+                "word": "IgG",
+                "start": 504,
+                "end": 507
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.9835320711135864,
+                "word": "Dengue Duo Panel",
+                "start": 537,
+                "end": 553
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7789198756217957,
+                "word": " Dengue NS1",
+                "start": 626,
+                "end": 636
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.9301166534423828,
+                "word": " Dengue\nIgG",
+                "start": 650,
+                "end": 660
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8565664887428284,
+                "word": "lgM",
+                "start": 661,
+                "end": 664
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5246050953865051,
+                "word": "eng",
+                "start": 756,
+                "end": 759
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.69053053855896,
+                "word": " NS",
+                "start": 762,
+                "end": 764
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6630850434303284,
+                "word": " NS",
+                "start": 777,
+                "end": 779
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6863894462585449,
+                "word": " NS",
+                "start": 898,
+                "end": 900
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.6268447637557983,
+                "word": " NS",
+                "start": 1053,
+                "end": 1055
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.861882209777832,
+                "word": " IgG",
+                "start": 1235,
+                "end": 1238
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.9030084609985352,
+                "word": " IgG",
+                "start": 1256,
+                "end": 1259
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.8056231141090393,
+                "word": " IgM",
+                "start": 1419,
+                "end": 1422
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.9036000967025757,
+                "word": " IgM",
+                "start": 1446,
+                "end": 1449
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7751573324203491,
+                "word": " IgM",
+                "start": 1529,
+                "end": 1532
+            }
+        ]
+    },
+    {
+        "doc_ans": "ANANTHAKRISHINA",
+        "user_ans": null,
+        "ocr_text": "AMBALPADY\nAmbalpady Medical Centre\nMedical Centre\nA UNIT OF NAVYA HEALTHCARE PRIVATE LIMITED\nDOPPLER . AD USO ECHO . DIGITAL RAY OPG\nECG LAB TESTS\nCILITIES\nRATHNA\nBRAHMA\nAND\nITS 124146\nDate 03/09/2023\nReferred his DR ANANTHAKRISHINA\nPLAIN CT OF LEFT SHOULDER\nFindings:\nAn intrathoracic supernumerary rib is noted originating from the\nanteroinferior border of the posteromedial aspect of the left 4th rib and\nruns in the posterior extrapleural space inferolaterally.\nRest of the visualized bones appear normal. No evidence of fracture / focal\nlesion.\nNo evidence of dislocation of the left shoulder.\nAcromioclavicular joint is unremarkable.\nVisualized soft tissues appear normal.\nVisualised left lung field is normal.\nIMPRESSION:\nAn intrathoracic supernumerary rib is noted originating from the\nanteroinferior border of posteromedial aspect of the left 4th rib and\nruns in the posterior extrapleural space inferolaterally.\ntate\nReported By: consultant radiologist through teleradiology\nPag\n/\ndiagnostic tests have certain limitations. Depending upon the clinical requirement, further eva\nquired, to confirm the findings and to look for abnormalities if any which would have gone und\n",
+        "ner_output": [
+            {
+                "entity_group": "LOC",
+                "score": 0.9732847809791565,
+                "word": " AMBALPADY\nAmbalpady Medical Centre\nMedical Centre",
+                "start": 0,
+                "end": 49
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.4642537236213684,
+                "word": "\n",
+                "start": 49,
+                "end": 50
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.808688223361969,
+                "word": " NAV",
+                "start": 60,
+                "end": 63
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.5059406757354736,
+                "word": "YA",
+                "start": 63,
+                "end": 65
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.8431134223937988,
+                "word": " HEALTHCARE PRIVATE LIMITED",
+                "start": 66,
+                "end": 92
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.9845294952392578,
+                "word": " AD USO ECHO",
+                "start": 103,
+                "end": 114
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7253101468086243,
+                "word": "RATHNA\nBRAHMA\n",
+                "start": 156,
+                "end": 170
+            },
+            {
+                "entity_group": "PER",
+                "score": 0.9966808557510376,
+                "word": " ANANTHAKRISHINA",
+                "start": 217,
+                "end": 232
+            }
+        ]
+    },
+    {
+        "doc_ans": null,
+        "user_ans": null,
+        "ocr_text": "through ware executive\ncmem\n(in\nOPD FORCE From were CT\nCard u.s\nYears 01/2025\nUHID\n/2024 Male\nAmount\n/ Health -\n100.00\nTachet\nPIARCHI DONUT\nThem\nON V\nRx\nAs Gabapin NT 400mg HS 2/M\nCp Betacap TR 40mg BD\nl\n!\nX 2Mth\nS\n",
+        "ner_output": [
+            {
+                "entity_group": "ORG",
+                "score": 0.8366762399673462,
+                "word": " ware executive\ncm",
+                "start": 8,
+                "end": 25
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.7307881712913513,
+                "word": " CT",
+                "start": 52,
+                "end": 54
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.4216853976249695,
+                "word": "Card",
+                "start": 55,
+                "end": 59
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.8330594897270203,
+                "word": " u.s",
+                "start": 60,
+                "end": 63
+            },
+            {
+                "entity_group": "LOC",
+                "score": 0.5053123831748962,
+                "word": ".",
+                "start": 115,
+                "end": 116
+            },
+            {
+                "entity_group": "ORG",
+                "score": 0.7886211276054382,
+                "word": "PIARCHI",
+                "start": 126,
+                "end": 133
+            },
+            {
+                "entity_group": "MISC",
+                "score": 0.5287812948226929,
+                "word": " Gab",
+                "start": 156,
+                "end": 159
+            }
+        ]
+    }
+]
