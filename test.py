@@ -8,7 +8,7 @@ import requests
 
 from process_report import extract_text_from_image_with_textract
 
-API_TOKEN = "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"
+API_TOKEN = ""
 API_URL = "https://api-inference.huggingface.co/models/Jean-Baptiste/roberta-large-ner-english"
 
 
